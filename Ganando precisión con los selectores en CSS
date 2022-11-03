@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ganando precisión con los selectores en CSS</title>
+        <link rel="stylesheet" href="Ganandoprecision.css">
+    </head>
+    <body>
+        <h1 id="titulo" class="encabezado">Lista de la compra</h1>
+        <ul>
+            <li id="elemento-1">Pan</li>
+            <li id="elemento-2">Arroz</li>
+            <li id="elemento-3">Azucar</li>
+            <li id="elemento-4">Sopa</li>
+            <li id="elemento-5">Carne</li>
+        </ul>
+        <ol>
+            <li id="elemento-1">LIDL</li>
+            <li id="elemento-2">BONPREU</li>
+            <li id="elemento-3">CONDIS</li>
+            <li id="elemento-4">CAPRABO</li>
+            <li id="elemento-5">MERCADONA</li>
+        </ol>
+    </body>
+</html>
